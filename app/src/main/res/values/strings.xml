@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Default -->
+    <string name="app_name">PingPong ScoreKeeper</string>
+
+    <!-- App name info -->
+    <string name="app_title">PingPong</string>
+    <string name="app_subtitle">Scorekeeper</string>
+
+    <!-- Overall score info -->
+    <string name="match_score_label">SCORE</string>
+    <string name="match_score_a">0</string>
+    <string name="match_score_separator">/</string>
+    <string name="match_score_b">0</string>
+    <string name="game_number_label">Game:</string>
+    <string name="game_number">1</string>
+
+    <!-- Shared player info -->
+    <string name="player_game_points_label">GAME POINTS</string>
+    <string name="player_point_button_label">+ POINT</string>
+    <string name="player_net_count_label">NET HITS:</string>
+    <string name="player_net_button_label">NET</string>
+    <string name="player_server_label">SERVER</string>
+
+    <!-- Player A info -->
+    <string name="player_a_label">Player A</string>
+    <string name="player_a_points">0</string>
+    <string name="player_a_net_hits">0</string>
+    <string name="player_server_a_label">SERVER</string>
+    <string name="player_a_winner">GAME OVER: Player A Wins!</string>
+
+    <!-- Player B info -->
+    <string name="player_b_label">Player B</string>
+    <string name="player_b_points">0</string>
+    <string name="player_b_net_hits">0</string>
+    <string name="player_server_b_label">SERVER</string>
+    <string name="player_b_winner">GAME OVER: Player B Wins!</string>
+
+    <!-- Reset button -->
+    <string name="reset_button_label">RESET MATCH</string>
+
+</resources>
